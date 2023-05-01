@@ -1,0 +1,15 @@
+.box {
+flex-direction: column;
+justify-content: center;
+width: 700px;
+height: 400px;
+border: 2px solid #000000;
+display: flex;
+align-items: flex-start;
+}
+
+.child {
+width: 100px;
+height: 100px;
+border: 2px solid #000000;
+}
